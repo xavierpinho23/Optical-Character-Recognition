@@ -5,6 +5,8 @@ application.
 Two types of classifers were used: with associative memory and without it.
 We used 3 different activation functions: Hardlim, Purelin and LogSig.
 
+To test the classifiers just run the main.m file.
+
 
 --------------------------------------------------------------------------------------------------------------------------------
 Work made using MatLab.

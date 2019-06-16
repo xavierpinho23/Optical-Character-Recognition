@@ -1,0 +1,15 @@
+Optical Character Recognition
+
+In this project we pretend to build various classifiers capables of predict digits draw by the user using an user-friendly 
+application.
+Two types of classifers were used: with associative memory and without it.
+We used 3 different activation functions: Hardlim, Purelin and LogSig.
+
+To test the classifiers just run the main.m file.
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+Work made using MatLab.
+Authors: Xavier Pinho and Jorge Melo (@/jorgegomelo)
+Course: Neural and Fuzzy Computations, University of Coimbra, 2018/2019.
+--------------------------------------------------------------------------------------------------------------------------------
